@@ -1,5 +1,5 @@
 # Smart-Letter-Project
-PNU Graduation Project, March 2023 - June 2023
+Pusan National University Graduation Project
 
 <h3>Purpose:</h3> Ease the use of email for those who are not familiar with utilizing computer equipment.
 
